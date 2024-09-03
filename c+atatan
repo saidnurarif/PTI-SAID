@@ -1,0 +1,6 @@
+python punya data primitif dan non-primitif
+data primitif ada dua
+- intejer (str) > numerikal
+- string (str) > character a-z, 0-9, special character
+- Float (float) > berkoma
+- boolean (bool) > True/False
